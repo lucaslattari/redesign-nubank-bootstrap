@@ -1,0 +1,93 @@
+html {
+  font-size: 1rem; }
+
+a.nav-link {
+  font-size: 1.5rem; }
+
+.customButtonNavbar {
+  font-size: 1.5rem; }
+
+html {
+  font-size: 0.6rem; }
+
+.overlayImage {
+  top: -69.5vw;
+  left: 42.5vw;
+  width: 40vw; }
+
+.divAbovePicture {
+  top: -79.5vw;
+  left: 10%;
+  width: 100%; }
+
+.customButton {
+  font-size: 1.1rem;
+  padding: 2.3vw; }
+
+@media (min-width: 576px) {
+  html {
+    font-size: 0.6rem; }
+  .overlayImage {
+    top: -52.5vw;
+    left: 50vw;
+    width: 40vw; }
+  .divAbovePicture {
+    top: -71.5vw;
+    left: 10%;
+    width: 70%; }
+  .customButton {
+    font-size: 1.6rem;
+    padding: 1.8vw; } }
+
+@media (min-width: 768px) {
+  html {
+    font-size: 0.6rem; }
+  .overlayImage {
+    top: -52.5vw;
+    left: 50vw;
+    width: 40vw; }
+  .divAbovePicture {
+    top: -60.5vw;
+    left: 7%;
+    width: 60%; }
+  .customButton {
+    font-size: 1.8rem;
+    padding: 2vw; } }
+
+@media (min-width: 992px) {
+  html {
+    /*font-size: 0.1rem;*/ }
+  .overlayImage {
+    top: -40.5vw;
+    left: 45vw;
+    width: 34vw; }
+  .divAbovePicture {
+    top: -60.5vw;
+    left: 5%;
+    width: 35%; }
+  .customButton {
+    font-size: 2.5vw;
+    padding: 2vw; }
+  .title {
+    font-size: 3.5vw; }
+  .paragraph {
+    font-size: 2.5vw; } }
+
+@media (min-width: 1200px) {
+  html {
+    /*font-size: 0.1rem;*/ }
+  .overlayImage {
+    top: -30.5vw;
+    left: 30vw;
+    width: 26vw; }
+  .divAbovePicture {
+    top: -40.5vw;
+    left: 3%;
+    width: 30%; }
+  .customButton {
+    font-size: 1.7vw;
+    padding: 1.2vw; }
+  .title {
+    font-size: 2.5vw; }
+  .paragraph {
+    font-size: 1.5vw; } }

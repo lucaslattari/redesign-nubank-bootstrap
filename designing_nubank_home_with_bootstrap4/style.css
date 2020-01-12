@@ -1,0 +1,61 @@
+.navbar-custom .nav-item {
+    font-family: Roboto;
+    font-size: 1.5vw;
+}
+
+.navbar-custom ul.navbar-nav li.nav-item a.nav-link {
+  padding-top: 20px;
+}
+
+.navbar-custom ul.navbar-nav li.active a.nav-link {
+  color: #BA55D3;
+}
+
+.navbar-custom ul.navbar-nav li.nav-item a:hover{
+  color: #c54df2;
+}
+
+.customButtonNavbar{
+  font-size: 2vw;
+}
+
+.customButton , .customButtonNavbar{
+  background-color: #BA55D3;
+  border: none;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.customButton:hover , .customButtonNavbar:hover{
+  background: #c54df2;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+#internal-content{
+  margin: 0 auto;
+}
+
+.layeredImage{
+  position: relative;
+}
+
+.title{
+  font-family: Montserrat;
+  color: white;
+  font-size: 4vw;
+}
+
+.paragraph{
+  font-family: Montserrat;
+  color: white;
+  font-size: 3vw;
+}
+
+.customButton{
+  font-size: 2vw;
+}
